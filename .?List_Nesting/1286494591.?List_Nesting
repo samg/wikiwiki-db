@@ -1,0 +1,15 @@
+'''doesn't deal with nested lists that change > 1 nest level at once.'''
+
+* one
+* two
+** A
+** B
+*** a
+*** b
+* three <== HERE
+* four
+
+
+And a ul is still open here.
+
+<div id="testing">doesn't work</div>

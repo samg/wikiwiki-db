@@ -1,0 +1,13 @@
+This is indented
+: This is not indented and not on a new line
+:: This is not double indented and not on a new line
+
+: This is indented
+
+; This is not bold and not indented
+
+* bullet
+** extra indented bullet
+*** super indented bullet
+
+ This is monospaced

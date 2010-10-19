@@ -1,0 +1,17 @@
+==Welcome to the YAPWTP Wiki==
+
+[[YAPTP]] is a pre-alpha WikiText parser currently under heavy development.  It is written in [[Peg/Leg]] and aims to be a lightweight, extremely fast alternative to using [[MediaWiki]] and PHP for parsing WikiText.
+
+
+It is far from complete.
+
+
+[[http://yamwtp.drasticcode.com]] is an wiki environment that uses [[YAPWTP]]. Its source code is available on [[http://github.com/samg/wikiwiki|github]].
+
+It goal is to document the current state of [[YAPWTP]] development and demonstrate its current functionality.
+
+
+You may want to check out:
+
+* [[Parsed Examples]] - Demonstrations of YAPWTP's abilities
+* [[Problem Text]] - Examples of where YAPWTP fails to do a good job parsing, and could be improved.

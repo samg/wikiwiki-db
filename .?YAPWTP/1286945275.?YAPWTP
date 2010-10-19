@@ -1,0 +1,10 @@
+'''''Y'''''et '''''A'''''nother '''''P'''''egLeg '''''W'''''iki '''''T'''''ext '''''P'''''arser
+
+:This is indented and on a new '''line'''
+
+*bullet
+** extra indented bullet
+
+Recent Changes is interesting.  Can you actually edit the grammar on the wiki or is it only by committing changes to the repo?
+
+* only by committing source code to the yapwtp project *

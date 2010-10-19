@@ -1,0 +1,12 @@
+This line confuses the list parser b/c of the 
+ * 
+midline.
+
+ *****should be able to use the alternate, 'Image*' indicator
+
+
+You cannot have an asterisk midline
+
+* foo * bar * baz
+
+* a * b * c * d * e * f

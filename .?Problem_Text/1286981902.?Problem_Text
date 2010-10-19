@@ -1,0 +1,26 @@
+<strike>
+This line confuses the list parser b/c of the 
+ * 
+midline.
+
+ *****should be able to use the alternate, 'Image*' indicator
+
+
+
+You cannot have an asterisk midline
+
+* foo * bar * baz
+
+* a * b * c * d * e * f
+
+
+Maybe this is one of those feature bugs.
+</strike> -- This is all better now.
+
+Tables don't work?
+{|
+|-
+|foo || foo || foo
+|-
+|bar || bar || bar
+|}

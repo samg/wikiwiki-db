@@ -1,0 +1,5 @@
+This line confuses the list parser b/c of the 
+ * 
+midline.
+
+ *****should be able to use the alternate, 'Image*' indicator

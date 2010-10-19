@@ -1,0 +1,13 @@
+The function
+
+<
+nowiki
+>
+
+works here!
+
+<nowiki> [[NoWikiWorks]]! </nowiki>
+
+but not here:
+
+[[WikiPagesDontWorkYet]]

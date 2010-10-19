@@ -1,0 +1,18 @@
+==Welcome to the YAPWTP Wiki==
+
+[[YAPWTP]] is a pre-alpha WikiText parser currently under heavy development.  It is written in [[Peg/Leg]] and [[C]] and aims to be a lightweight, extremely fast alternative to using [http://www.MediaWiki.org MediaWiki] and PHP for parsing WikiText.  Currently it is capable of parsing a 100 line wikitext file including images, tables, and lots of markup in about 5ms on a one year old Apple laptop.
+
+You can see the revision of YAPWTP this site is running (git sha) at [[VERSION.txt]]
+
+Here is a some recent [[test output]] which somewhat describes what it's capable of.
+
+
+[http://yapwtp.drasticcode.com YAPWTP.drasticcode.com] is an wiki environment that uses [[YAPWTP]]. Its source code is available on [http://github.com/samg/wikiwiki github].
+
+Its goal is to document the current state of [[YAPWTP]] development and demonstrate its current functionality.
+
+
+You may want to check out:
+
+* [[Parsed Examples]] - Demonstrations of YAPWTP's abilities
+* [[Problem Text]] - Examples of where YAPWTP fails to do a good job parsing, and could be improved.

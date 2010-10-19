@@ -1,0 +1,5 @@
+* <strike>[[List Nesting]] - Issues closing ul's and understanding complex nesting.</strike>
+* '''Segfaults on [[Parsed Examples]]'''
+* You can put whatever HTML you want in a list! Doh. e.g. <div id="asdf">asdf</div> or <a href="#" onclick="alert('I pity the fool!')">this</a>
+
+You should not see a div tag here: <div id="asdf">asdf</div>

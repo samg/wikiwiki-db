@@ -1,0 +1,93 @@
+*Wikitext parser
+**headings
+***should be able to use windows line-endings
+***should not freak out when there are multiple headings
+***should be able to do links inside of headings
+***should be able to do multiple links in one heading
+***should create the markup like mediawiki
+***should be able to make a heading
+***should make an anchor with the heading
+***should filter headings content for the anchor name
+***should not allow text after the closing header
+***should allow white-space after the closing heading marker
+***should let you close a heading with unballanced tags
+***should not output bogus h tags
+**paragraphs
+***should be able to notice paragraph breaks
+***should be able to make a horizontal line
+***should be able to indent lines
+***should not make shitty paragraphs
+**lists
+***should be able to make a list
+***should be able to make nested lists
+***should handle nested lists that drop more than one level at a time
+***should be able to make numbered lists
+***should be able to nest numbered lists
+***should process other wiki text inside of list items
+***should protect HTML markup just like anywhere else
+**text formatting
+***should be able to make things italic
+***should be able to make things bold
+***should be able to make things bold and italic
+***should wrap things in leading spaces with pre tags
+***should pass through anything valid that is inside of <nowiki> tags
+***should not pass HTML tags through when using <nowiki>
+**links
+***should be able to make a simple link
+***should be able to make a named link
+***should be able to have multiple named and un-named links on a line
+***should hide parentheticals in the link text and urlencode them in the href
+***should hide namespaces
+***should support a base URL to be supplied on the command line or via the API
+***should be able to make blended links
+***should not blend formatting characters and wreck the wikitext tag
+***should be able to make full urls into links
+***should handle links back to back
+***should handle more than one link on a line
+***should handle at least a renamed link and a simple link on a line
+***should not add pre tags when the link is followed by a space
+***should not allow javascript links
+***external links
+****should be able to do external links
+****should allow multiple links on a line
+**images
+***should be able to make an image
+***should be able to use the alternate, 'Image:' indicator
+***should be able to apply alt-text to an image
+***should be able to link to the file instead of display it
+***should be able to float the image left, right, center, or not at all
+***image linking
+****should link to nothing if you give it a blank link
+****should link to someplace if you give it a valid link
+***caption
+****should be able to give a default image a title on the link
+****should be able to put the caption in a visible location if framed or thumbed
+***thumbnail
+****should scale the image down
+****should scale the image down
+***frame
+****should attach the thumbimage class but not actually size it down
+**tables -- oh boy...
+***should be able to make a caption for the table
+***should be able to do simple rows
+***should be able to do single-line rows
+***should be able to do a few rows
+***headers
+****should be able to make headers
+****should be able to do headers part-way down as well
+**templates
+***should replace all template content with __name__
+**table of contents
+***should not output a table of contents if __NOTOC__ is present
+***should replace __TOC__ with the table of contents if more than 3 headings are present
+***should not output a table of contents when fewer than 3 headings are present
+***should output a table of contents when more than 3 headings are present
+***should output a table of contents with fewer than 4 headings if __FORCETOC__ is present
+**html markup
+***should allow some html markup
+***should be case insensitive
+***should encode < and > as &lt; and &gt; when the tag is not allowed
+***should handle simple tags
+***should handle complex tags
+***should filter attributes, allowing only name and id for now
+***should filter complex attributes, ignoring anything following a badly formed one
