@@ -1,5 +1,5 @@
 [[test output]] is segfaulting -- not happening on OSX.  Will have to check on Linux.
 
-[[WikiPagesDontWorkYet]] also segfaults -- also safe on OSX. Linux is pickier and a better place to find these.
+[[WikiPagesDontWorkYet]] also segfaults
 
 [[Lists]] Copied from mediawiki examples are a little fugly.  Possibly the inline colon throws them off.
