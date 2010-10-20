@@ -7,7 +7,6 @@ Me.com
 Too.com
 </WikiPages>
 
-<s>
  <nowiki>
  <WikiPages>
  Foo.com
@@ -17,4 +16,4 @@ Too.com
  </WikiPages>
  </nowiki>
 
-doesn't look like [[NoWiki]] worked here</s> -- This is expected behavior, apparently.  Mediawiki does the same thing.
+doesn't look like [[NoWiki]] worked here
