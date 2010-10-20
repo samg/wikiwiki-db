@@ -1,0 +1,5 @@
+<s>[[test output]] is segfaulting -- not happening on OSX.  Will have to check on Linux.</s>
+
+[[WikiPagesDontWorkYet]] <s>also segfaults -- also safe on OSX. Linux is pickier and a better place to find these.</s>
+
+<strike>[[Lists]] Copied from mediawiki examples are a little fugly.  Possibly the inline colon throws them off.</strike> This has been fixed.  It's better but not fixed.  The OL is still running too long for some reason, swallowing the "Definition Lists" section.
