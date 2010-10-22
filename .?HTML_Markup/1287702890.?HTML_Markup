@@ -1,0 +1,34 @@
+<h1 name="swallowed">Here</h1>
+A number of HTML tags are supported, with certain attributes allowed.  Some ugliness is cleaned up in the final markup generation.  Here are some examples.
+
+<b>Lorem ipsum dolor sit amet</b>, <i>consectetur adipiscing elit</i>. <s>Fusce congue mattis faucibus.</s> Sed diam dui, placerat vitae porta ac, condimentum in risus. Vivamus pulvinar rhoncus magna, ut vestibulum purus blandit ut. 
+<div style="float: right; padding: 10px;">
+This should be floating to the Right.
+</div>
+<h2>Lists</h2>
+<ul>
+<li>Quisque cursus laoreet odio, ac ultricies purus ultricies non. 
+<li>Integer vulputate arcu vel libero luctus interdum. 
+<li>Cras rhoncus velit eu elit venenatis ac dapibus lectus tempus.
+</uL>
+Integer elit quam, adipiscing eget suscipit ut, auctor non elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. 
+
+<ol>
+<li>Nam vel dignissim nunc. </li>
+<li>Proin consectetur nibh vel nibh aliquam malesuada.</li> 
+<li>Ut eu dui ante.</li></OL> Praesent magna nisi, tempus ut molestie non, vestibulum eu enim. Nulla egestas nibh eu ante ultrices volutpat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris euismod, nunc a posuere fringilla, ligula magna ultrices magna, vel tincidunt ipsum risus non magna. Maecenas facilisis vestibulum ipsum, vitae commodo velit porta ac. Nullam id ultricies odio. Curabitur vestibulum, ipsum nec vehicula adipiscing, dolor magna elementum diam, vel feugiat elit nisi a purus.
+
+<table BORDER="1" CELLPADDING="10" THIS="IGNORED">
+<tr>
+<th>Table heading</th>
+<td>Table cell</td>
+<td>Another</td>
+</tr>
+<tr>
+<th>Table heading</th>
+<td>Table cell</td>
+<td>Another</td>
+</tr>
+</table>
+
+<this> tag is not supported and is encoded to show up in the document.

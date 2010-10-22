@@ -1,0 +1,10 @@
+<b>Lorem ipsum dolor sit amet</b>, <i>consectetur adipiscing elit</i>. <s>Fusce congue mattis faucibus.</s> Sed diam dui, placerat vitae porta ac, condimentum in risus. Vivamus pulvinar rhoncus magna, ut vestibulum purus blandit ut. Nullam orci nibh, gravida sit amet auctor ut, dignissim mollis enim. In sed erat felis, interdum imperdiet quam. Sed bibendum eros vitae felis convallis semper. Sed tortor nulla, venenatis eget iaculis at, euismod sit amet nibh. Quisque vel arcu ut velit pretium consequat venenatis ut augue. Nam scelerisque quam a tellus ullamcorper eget congue neque faucibus. Cras vulputate sapien non mauris dictum accumsan rutrum tellus vulputate.
+<div style="float: right; padding: 10px;">
+This should be floating to the Right.
+</div>
+<ul>
+<li>Quisque cursus laoreet odio, ac ultricies purus ultricies non. 
+<li>Integer vulputate arcu vel libero luctus interdum. 
+<li>Cras rhoncus velit eu elit venenatis ac dapibus lectus tempus.
+</uL>
+Integer elit quam, adipiscing eget suscipit ut, auctor non elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Nam vel dignissim nunc. Proin consectetur nibh vel nibh aliquam malesuada. Ut eu dui ante. Praesent magna nisi, tempus ut molestie non, vestibulum eu enim. Nulla egestas nibh eu ante ultrices volutpat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris euismod, nunc a posuere fringilla, ligula magna ultrices magna, vel tincidunt ipsum risus non magna. Maecenas facilisis vestibulum ipsum, vitae commodo velit porta ac. Nullam id ultricies odio. Curabitur vestibulum, ipsum nec vehicula adipiscing, dolor magna elementum diam, vel feugiat elit nisi a purus.
