@@ -3,3 +3,5 @@ You can include simple templates using the MediaWiki syntax like <nowiki>{{templ
 The text below this line is from a template
 ----
 {{Test template}}
+
+{{C}}
