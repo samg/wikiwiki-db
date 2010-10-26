@@ -1,0 +1,12 @@
+==Heading 1==
+
+Here is some awesome text.
+
+
+==Heading 2==
+===Sub-Heading 2.1===
+This one has the table of contents here.
+__TOC__
+==Heading 4==
+The ToC is here as well:
+__TOC__
