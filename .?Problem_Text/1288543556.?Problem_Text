@@ -1,0 +1,11 @@
+==Links around Images==
+
+Images should link to absolute paths like '/File:Picture.jpg' instead of relative links (i.e. 'File:Picture.jpg').
+
+The later confuses my browser and causes it to link to file:///Picture.jpg, which won't work at all.
+
+==Unescaped html in nowiki tags==
+
+The break tag in here is rendered.
+
+<code><nowiki><br /></nowiki></code>

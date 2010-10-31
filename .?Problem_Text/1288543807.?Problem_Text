@@ -1,3 +1,9 @@
+==Links around Images==
+
+Images should link to absolute paths like '/File:Picture.jpg' instead of relative links (i.e. 'File:Picture.jpg').
+
+The later confuses my browser and causes it to link to file:///Picture.jpg, which won't work at all.
+
 ==Swallowed html in nowiki tags==
 
 The break tag in here is not rendered as literal text despite being in nowiki and code tags. This differs from mediawiki's behavior.
