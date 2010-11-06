@@ -2,4 +2,4 @@
 
 The break tag in here is not rendered as literal text despite being in nowiki and code tags. This differs from mediawiki's behavior.
 
-"To create a line break put this <code><nowiki><br/ ></nowiki></code> in your markup."
+"To create a line break put this <code><nowiki><br/></nowiki></code> in your markup."
