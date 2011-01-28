@@ -1,0 +1,1 @@
+Kiwi is a fast formal parser for [http://www.mediawiki.org/wiki/MediaWiki MediaWiki]'s wikitext syntax, written in C using the [http://piumarta.com/software/peg/ Peg/Leg] parser generator.
