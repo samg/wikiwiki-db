@@ -4,4 +4,4 @@ The text below this line is from a template
 ----
 {{Test template}}
 
-{{Author|King, Stephen}}
+{{Author|Name=King, Stephen}}
